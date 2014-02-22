@@ -1,0 +1,19 @@
+body{
+width: 1000px;
+margin: 0 auto;
+padding: 10px;
+}
+
+#content{
+border: solid aqua;
+border-bottom-left-radius: 25px;
+border-top-right-radius: 25px;
+padding-left: 50px;
+}
+
+#forms{
+margin-top: 20px;
+padding-top: 40px;
+border: solid grey;
+padding-left: 50px;
+}
